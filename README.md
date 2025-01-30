@@ -9,8 +9,6 @@ This repository contains a deep learning model for classifying chest X-ray image
 4. [Clustering](#clustering)
 5. [CNN Model](#cnn-model)
 6. [Results](#results)
-7. [Usage](#usage)
-8. [Contributing](#contributing)
 9. [License](#license)
 
 ## Introduction
